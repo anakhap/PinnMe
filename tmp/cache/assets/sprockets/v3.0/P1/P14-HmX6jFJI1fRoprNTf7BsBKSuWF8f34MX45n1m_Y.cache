@@ -1,0 +1,9 @@
+I"f(function() {
+  var test;
+
+  test = function() {
+    return alert('hello');
+  };
+
+}).call(this);
+:ET
